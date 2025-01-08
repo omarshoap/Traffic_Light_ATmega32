@@ -11,6 +11,8 @@ This project implements a traffic light control system for a four-way intersecti
 - **Interrupt-driven pedestrian mode**, activated via external buttons.
 - Alternating traffic flow between **North-South (NS)** and **East-West (EW)** directions.
 
+![Time linepng](https://github.com/user-attachments/assets/a61eac88-2be7-4412-b034-d3466c2de41b)
+
 ---
 
 ## **Features**
@@ -70,7 +72,7 @@ When activated:
 - Pedestrian green signals activate, allowing safe crossing.
 - Normal traffic resumes after pedestrian crossing.
 
-![state machine](https://github.com/user-attachments/assets/cb638393-f2d0-4149-bb1c-73255f667e62)
+![state machine](https://github.com/user-attachments/assets/42732218-0a0e-4b98-aa7a-552b59169b06)
 
 ---
 
@@ -100,7 +102,7 @@ When activated:
 
 ## **Hardware Connections**
 
-![image](https://github.com/user-attachments/assets/d9a3a9ae-cdb9-458c-9003-e5625790acd0)
+![image](https://github.com/user-attachments/assets/2fe470f0-7934-4632-809b-f5593dff7712)
 
 
 | **Component**              | **MCU Port** | **Pin** | **Description**                     |
